@@ -26,5 +26,4 @@ I'm beginner senior Rust developer.
 ![adidas](https://img.shields.io/badge/adidas-%23000000.svg?style=for-the-badge&logo=adidas&logoColor=white)
 
 ### This is an exact representation(in percent) of my retardness
-![counter](https://moe-counter.glitch.me/get/@j4ckson4800?theme=rule34)
-
+![counter](https://moe-counter.es3n1n.eu/get/@j4ckson4800?theme=rule34)
